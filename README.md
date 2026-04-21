@@ -1,26 +1,23 @@
-Headline: Computer Engineering Student | Quantitative Finance | Algo Trading
-         GPAX 3.80 | 2+ Years Systematic Trading Experience
+# Hi, I'm Supachok Julauapy 👋
 
-About:
-"I'm a Computer Engineering student passionate about applying 
-technology to financial markets. Over the past 2 years, I've built 
-and operated systematic trading systems (EA Grid on XAU/USD) 
-generating consistent returns of 5-10% monthly.
+🎓 Computer Engineering Student | Year 3 | GPAX 3.80
+📈 Quantitative Finance Enthusiast | Systematic Trading
+💰 2+ years running profitable EA Grid Trading System (XAU/USD)
+🔬 Interested in: Algo Trading, ML for Finance, Risk Management
 
-I'm now expanding into quantitative research, machine learning 
-for finance, and portfolio optimization. Looking for quant 
-internship opportunities in APAC.
+## 🔥 What I Do
+- Build & operate EA trading systems with ~5-10% monthly returns
+- Develop systematic trading strategies with rigorous backtesting
+- Apply ML/Statistics to financial markets
 
-Skills: Python, MQL4/5, Algo Trading, Backtesting, ML/AI, 
-Statistics, Risk Management"
+## 📊 Featured Projects
+- 🏆 [Backtesting Framework] — Modular backtesting engine for multiple strategies
+- 📈 [Portfolio Optimizer] — Mean-Variance + Black-Litterman portfolio optimization
+- 🤖 [ML Alpha Engine] — Machine learning for alpha discovery
 
-Experience:
-- ✅ "Independent Systematic Trader" (เม.ย. 67 — ปัจจุบัน)
-  - Developed and operated EA Grid system for XAU/USD
-  - Achieved 5-10% average monthly returns over 2 years
-  - Managed profit sharing with investors
+## 🛠️ Tech Stack
+Python | NumPy | Pandas | Scikit-learn | PyTorch | MQL4/5 | SQL | C++
 
-Featured:
-- Link ไป GitHub repos
-- Link ไป blog posts
-- Link ไป certificates
+## 📫 How to reach me
+- LinkedIn: [link]
+- Blog: [link]
