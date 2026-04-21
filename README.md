@@ -1,23 +1,29 @@
-# Hi, I'm Supachok Julauapy 👋
+# Hi there, I'm Supachok 👋
 
-🎓 Computer Engineering Student | Year 3 | GPAX 3.80
-📈 Quantitative Finance Enthusiast | Systematic Trading
-💰 2+ years running profitable EA Grid Trading System (XAU/USD)
-🔬 Interested in: Algo Trading, ML for Finance, Risk Management
+I'm a **Computer Engineering student at Kasetsart University** with a strong passion for **Quantitative Finance, Algorithmic Trading, and Software Development**. I enjoy building automated systems that solve complex problems and leveraging data to make precise decisions.
 
-## 🔥 What I Do
-- Build & operate EA trading systems with ~5-10% monthly returns
-- Develop systematic trading strategies with rigorous backtesting
-- Apply ML/Statistics to financial markets
+### 🔭 What I'm currently working on
+- Designing and optimizing **Expert Advisors (MQL4/5)** for automated multi-asset trading.
+- Developing robust **cryptocurrency trading bots** using Python, Binance API, and technical indicators.
+- Engineering custom backtesting frameworks for quantitative data analysis.
 
-## 📊 Featured Projects
-- 🏆 [Backtesting Framework] — Modular backtesting engine for multiple strategies
-- 📈 [Portfolio Optimizer] — Mean-Variance + Black-Litterman portfolio optimization
-- 🤖 [ML Alpha Engine] — Machine learning for alpha discovery
+### 🌱 What I'm currently learning
+- Advanced Financial Engineering and Data Structures.
+- High-frequency trading system architecture.
 
-## 🛠️ Tech Stack
-Python | NumPy | Pandas | Scikit-learn | PyTorch | MQL4/5 | SQL | C++
+### 🏆 Achievements
+- **Top 6 Finalist** @ LegalTech 2024 
+- **2nd Runner-up & Social Value Award** @ Science & Technology Idea Contest 2023 (OPTECH smart glasses)
+- **33rd Place Nationally** @ The 4th Kibo-Robot Programming Challenge 2023 (Java-based pathfinding)
+- **39th Place Nationally** @ Thailand Cyber Top Talent 2023 
 
-## 📫 How to reach me
-- LinkedIn: [link]
-- Blog: [link]
+### 🛠 Tech Stack & Tools
+- **Languages:** Python, C#, Java, C++, PHP, Visual Basic
+- **Trading & FinTech:** MetaTrader 4/5, Binance API, Pandas, Backtesting frameworks
+- **Web & Hardware:** HTML/CSS, MySQL, Raspberry Pi, Microcontrollers
+
+### 📫 How to reach me
+- **LinkedIn:** [Your LinkedIn URL]
+- **Email:** supachok256147216@gmaiil.com
+
+⚡ **Fun fact:** When I'm not coding or backtesting strategies, you'll probably find me following Motorsport Racing or Football! 🏎️⚽
