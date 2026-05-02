@@ -23,7 +23,7 @@ I'm a **Computer Engineering student at Kasetsart University** with a strong pas
 - **Web & Hardware:** HTML/CSS, MySQL, Raspberry Pi, Microcontrollers
 
 ### 📫 How to reach me
-- **LinkedIn:** [https://www.linkedin.com/in/supachok-julaupay-5295b7352/](https://www.linkedin.com/in/spjy/)
+- **LinkedIn:** [https://www.linkedin.com/in/spjy/](https://www.linkedin.com/in/spjy/)
 - **Email:** supachok256147216@gmaiil.com
 
 ⚡ **Fun fact:** When I'm not coding or backtesting strategies, you'll probably find me following Motorsport Racing or Football! 🏎️⚽
